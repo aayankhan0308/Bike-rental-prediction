@@ -24,7 +24,6 @@ https://archive.ics.uci.edu/dataset/560
 | `eda.py` | Exploratory Data Analysis + graphs |
 | `2_model.py` | ML model training and evaluation |
 | `SeoulBikeData.csv` | Dataset |
-| `bike_model.pkl` | Saved trained model |
 
 ## 🔍 Model
 - Algorithm : Random Forest Regressor
