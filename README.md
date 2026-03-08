@@ -32,4 +32,4 @@ https://archive.ics.uci.edu/dataset/560
 - Trees : 100
 
 ## 👤 Author
-Your Name — Your College
+Aayan Khan 
